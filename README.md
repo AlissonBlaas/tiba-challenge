@@ -29,7 +29,7 @@ https://mui.com/pt/
 - prettier
 - react hooks
 
-## tech used for the frontend:
+## tech used for the backend:
 - typeorm 
 - migrations
 - postgres
