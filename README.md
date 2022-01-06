@@ -23,13 +23,13 @@ Your app is ready to be deployed!
 MaterialUI:
 https://mui.com/pt/
 
-##- for the frontend:
+## for the frontend:
 - react router dom
 - eslint
 - prettier
 - react hooks
 
-##- for the backend:
+## for the backend:
 - typeorm 
 - migrations
 - postgres
