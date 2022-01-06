@@ -2,7 +2,8 @@
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn start` TO RUN FRONTEND
+### `yarn dev` TO RUN BACKEND
 
 Runs the app in the development mode.\
 
@@ -22,7 +23,13 @@ Your app is ready to be deployed!
 MaterialUI:
 https://mui.com/pt/
 
+## tech used into the frontend:
 - react router dom
 - eslint
 - prettier
 - react hooks
+
+## tech used for the backend:
+- typeorm 
+- migrations
+- postgres
