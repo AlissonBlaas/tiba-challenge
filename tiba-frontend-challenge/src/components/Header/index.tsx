@@ -143,7 +143,7 @@ const PrimarySearchAppBar = () => {
           <Box sx={{ flexGrow: 1 }} />
           <Search>
             <SearchIconWrapper>
-              <SearchIcon />
+              <SearchIcon style={{ color: '#5f6368' }} />
             </SearchIconWrapper>
             <StyledInputBase
               placeholder="Search…"
