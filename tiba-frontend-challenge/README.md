@@ -23,8 +23,6 @@ MaterialUI:
 https://mui.com/pt/
 
 - react router dom
-- jest
-- mock
 - eslint
 - prettier
 - react hooks
